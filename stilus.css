@@ -1,0 +1,11 @@
+
+*{box-sizing: border-box;}
+
+#galeria{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+}
+div img{
+    height: 200px;
+}
